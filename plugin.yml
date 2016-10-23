@@ -1,0 +1,9 @@
+name: GameLib
+version: 1.0
+main: de.devcubehd.gamelib.GameLib
+description: Network Game Libary
+author: [DevCubeHD]
+commands:
+   start:
+   extendtime:
+   forcetimer:
